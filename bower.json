@@ -1,6 +1,0 @@
-{
-  "name": "budget-calc",
-  "dependencies": {
-    "selectize": "miguelcobain/selectize.js#master"
-  }
-}
