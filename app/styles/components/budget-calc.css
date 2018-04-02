@@ -1,0 +1,44 @@
+.project-code{
+  color: #ff9100;
+}
+
+.budget-calc{
+  width: 330px;
+  margin-bottom: 150px;
+}
+
+@media (min-width: 400px) {
+  .budget-calc{
+    width: 500px;
+    margin-bottom: 150px;
+  }
+}
+
+
+
+.budget-calc hr{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.total-value{ 
+  padding: 10px;
+  background-color: #00c853;
+  color: #fff;
+  width: 280px;
+  height: 80px;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+}
+
+.total-time{
+  padding: 10px;
+  background-color: #673ab7;
+  color: #fff;
+  width: 280px;
+  height: 80px;
+  right: 0;
+  bottom: 100px;
+  position: fixed;
+}
