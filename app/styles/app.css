@@ -1,0 +1,84 @@
+@import "normalize.css";
+@import "skeleton.css";
+@import "./components/language-select.css";
+@import "./components/budget-calc.css";
+
+.small-text-input{
+  width: 50px;
+}
+
+.info{
+  padding: 20px;
+  background-color: #eee;
+}
+
+.navigation-bar{
+  padding: 10px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.subtitle{
+  color: #00c853;
+  font-size: 1.5rem;
+  margin-top: -20px;
+}
+
+.green-icon{
+  color: #00c853;
+}
+
+.subtitle-2{
+  color: #fdd835;
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+.subtitle-3{
+  color: #000;
+  font-size: 1.2rem;
+  margin-top: -25px;
+}
+
+.responsive-img{
+  max-width: 100%;
+  height: auto;
+}
+
+.circle{
+  border-radius: 50%;
+}
+
+.u-pull-center{
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  float: none;
+}
+
+.row{
+  min-height: 20px;
+  //border: 1px solid #c8c8c8;
+}
+
+.columns {
+  min-height: 20px;
+  //border: 1px solid blue;
+}
+
+.column {
+  min-height: 20px;
+  border: 1px solid blue;
+}
+
+.clock{
+  min-height: 20px;
+  border: 1px solid yellow;
+  max-width: 300px;
+}
+
+.clock-controlls{
+  min-height: 20px;
+  border: 1px solid yellow;
+  max-width: 300px;
+}

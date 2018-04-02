@@ -1,0 +1,21 @@
+.language-select{
+  text-align: center;
+  padding: 20px;
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.language-select .selected img {
+  border: 3px solid #00c853;
+}
+
+.language-select .unselected img {
+  border: 3px solid #fff;
+}
+
+
+.language-select img {
+  width: 50px;
+}
